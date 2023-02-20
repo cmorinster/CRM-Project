@@ -1,0 +1,62 @@
+.text1{
+    text-align: center;
+    font-weight: 600;
+}
+
+.text1 h5{
+    font-size:30px;
+    font-weight:700;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.li{display: inline-flex;
+    
+}
+
+.card{
+    width: 150px;
+    height: 150px;
+}
+
+#img0{
+    width: 50px;
+    height: 60px;
+}
+
+#img1{
+    width: 50px;
+    height: 60px;
+}
+
+#img2{
+    width: 50px;
+    height: 60px;
+}
+
+#img3{
+    width: 50px;
+    height: 60px;
+}
+
+.card{
+    display:flex;
+    align-items: center;
+    
+}
+
+.card-body{
+    position: relative;
+    top: 20px;
+}
+
+.card-title{
+    position: relative ;
+    top: 20px;
+}
+
+#title1{
+    color: white;
+}

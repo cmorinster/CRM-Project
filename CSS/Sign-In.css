@@ -1,0 +1,91 @@
+
+
+/* .example{
+    border: 1px solid black;
+    width: max-content;
+    padding: 20px;
+    margin-bottom: 10px;
+    margin-inline: auto;
+
+    margin-top: 10px; 
+
+} */
+
+.signin{
+    display: flex;
+    gap: 10px 10px;
+    padding: 10px
+}
+
+.signinform{
+    height: 60px;
+    
+}
+
+
+.imageposition{
+    
+    height: 75%; 
+    width: 75%;
+    display: flex;
+    
+}
+
+.container1 {
+    background-color:#0314fe;
+    clip-path: ellipse(70% 100% at 30% 0%);
+    height: 80vh;
+    
+    width: 100%;
+        
+}
+
+
+
+
+
+.socialbuttons {
+    display: flex;
+    gap: 12px;
+    margin: 0 auto;
+    max-width: max-content;
+}
+
+.socialbutton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration:none;
+}
+
+.socialbutton .fa {
+    color: white;
+    width: 32px;
+    aspect-ratio: 1 / 1;
+    padding: 7px 6px 6px;
+    border-radius: 50%;
+}
+  
+.fa:hover {
+      opacity: 0.7;
+  }
+  
+.fa-facebook {
+    background: #3B5998;
+    
+  }
+
+.fa-twitter {
+    background: #55ACEE;
+    
+  }
+  
+.fa-google {
+    background: #dd4b39;
+    
+  }
+  
+.fa-linkedin {
+    background: #007bb5;
+    
+  }
