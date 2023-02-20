@@ -1,0 +1,86 @@
+
+/* 1st-text */
+.text1{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    ;
+    
+}
+
+.text1 p{
+    font-weight: 600;
+}
+
+.text1 h3{margin-top: 50px;
+    font-weight: 700;
+
+}
+
+/* Collect Useful Info Css */
+#img{
+    background-color:white;
+    border-radius: 20px 0 0 20px;
+    height: 520px;
+    margin-top: -17px;
+    margin-left:-16px;
+}
+
+
+.my-card-body{
+    background-color: #0314FE;
+    border-radius: 20px 20px 20px 20px;
+    color: white;
+    height: 520px;
+    width: auto;
+    text-align: left;
+    font-family: sans-serif; font-weight: bold;
+    
+}
+
+.my-card-body{
+    border: 0.5px solid grey;
+}
+
+.card-text1{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+/* 2st-text */
+.text2{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 90px;
+    
+}
+
+.text2 p{
+    font-weight: 600;
+} 
+
+
+
+/* Get Paid Sooner */
+
+
+#img2{
+    background-color: white;
+    border-radius: 20px 0 0 20px;
+    height: 520px;
+    margin-top: -17px;
+    margin-left: -16px;
+}
+
+/* Footer Css */
+
+
+
+a:first-child{margin-right:50px;}
+
+ul li{
+  font-size: 5px;
+  display: inline-flex;
+  margin-right: 10px;
+}
