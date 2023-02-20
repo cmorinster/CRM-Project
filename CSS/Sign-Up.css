@@ -1,0 +1,47 @@
+.sign-up-col{
+margin-top: 13%;
+}
+
+.form{
+    margin: 5px;
+    padding: 10px;
+}
+
+
+
+
+
+
+.socialbuttons {
+    display: flex;
+    gap: 12px;
+    margin: 0 auto;
+    max-width: max-content;
+}
+.socialbutton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.socialbutton .fa {
+    color: white;
+    width: 32px;
+    aspect-ratio: 1 / 1;
+    padding: 7px 6px 6px;
+    border-radius: 50%;
+}
+.fa:hover {
+      opacity: 0.7;
+  }
+.fa-facebook {
+    background: #3B5998;
+  }
+.fa-twitter {
+    background: #55ACEE;
+  }
+.fa-google {
+    background: #DD4B39;
+  }
+.fa-linkedin {
+    background: #007BB5;
+  }
